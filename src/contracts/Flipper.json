@@ -1,0 +1,26 @@
+{
+  "address": "0x45127943e4dfE5eb85F8E57B7f91620ad8BD9249",
+  "abi": [
+    {
+      "inputs": [
+        { "internalType": "bool", "name": "initvalue", "type": "bool" }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [],
+      "name": "flip",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "get",
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+}
